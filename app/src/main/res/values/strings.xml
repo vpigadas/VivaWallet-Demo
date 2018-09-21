@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VivaWallet</string>
+
+    <string name="buy_for">Buy for %s</string>
+</resources>
